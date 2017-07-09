@@ -3,7 +3,8 @@ use warnings;
 use strict;
 
 for my $i (1..5){
-  print "Toto je cislo $i \n";
+  print "toto je master \n"
+  print $i;
 }
 
 print "konec";
