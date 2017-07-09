@@ -3,5 +3,5 @@ use warnings;
 use strict;
 
 for my $i (1..5){
-  print $i;
+  print "Toto je cislo $i \n";
 }
